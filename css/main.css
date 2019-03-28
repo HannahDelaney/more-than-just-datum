@@ -10,6 +10,10 @@ header {
   max-width: 200px;
 }
 
+.icon {
+  margin-left: .5rem;
+}
+
 .near {
   background-color: #efefef;
 }
